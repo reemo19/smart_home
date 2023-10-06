@@ -7,8 +7,9 @@
 #include"STD_TYPES.h"
 #include"BIT_MATH.h"
 #include"DIO_interface.h"
-#include"util/delay.h"
 #include"ADC.h"
+#include"util/delay.h"
+
 #include<avr/io.h>
 void ADC_voidInt()
 {
